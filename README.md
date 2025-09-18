@@ -15,9 +15,15 @@ Este repositório reúne meus estudos e anotações voltados para **consultoria 
 - `apis.md` → conceitos introdutórios e exemplos práticos de chamadas a APIs REST.  
 - `sql.md` → comandos básicos (SELECT, INSERT, UPDATE, DELETE) e consultas simples.  
 - `notas.md` → reflexões e aprendizados gerais relacionados à área de consultoria técnica.  
+ ## 🌱 Sobre mim  
 
-## 🌱 Sobre mim  
-Sou estudante de **Ciências Biológicas**, apaixonada por aprender e aplicar tecnologia para resolver problemas. Tenho experiência em **atendimento ao cliente** e **estágios de laboratório**, onde desenvolvi raciocínio analítico, organização e resiliência.  
+Sou estudante de **Ciências Biológicas**, apaixonada por aprender e aplicar tecnologia para resolver problemas.  
+Tenho experiência em **atendimento ao cliente** e **suporte técnico**, além de já ter atuado com **emissão de notas fiscais eletrônicas, modificações de DANFEs e conhecimentos de transporte eletrônico (CT-e)**.  
+
+Também desenvolvi habilidades em estágios de laboratório, com foco em **análise de cenários, documentação e simulação de problemas**, o que me deu organização, raciocínio lógico e resiliência.  
+
+Meu objetivo é crescer profissionalmente na área de **consultoria técnica em tecnologia**, aliando minha curiosidade científica à vontade de ajudar clientes a encontrarem soluções eficazes.  
+ 
 
 Meu objetivo é crescer profissionalmente na área de **consultoria técnica em tecnologia**, aliando minha curiosidade científica à vontade de ajudar clientes a encontrarem soluções eficazes.  
 
