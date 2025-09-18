@@ -1,15 +1,9 @@
-
----
-
-## 🔹 Arquivo 2 — `sql.md`  
-
-```markdown
 # Estudos de Banco de Dados SQL  
 
 O **SQL (Structured Query Language)** é a linguagem usada para manipular dados em bancos relacionais.  
 Aqui estão alguns comandos básicos:  
 
-## Comandos principais
+## Comandos principais  
 
 ```sql
 -- Selecionar todos os registros de uma tabela
