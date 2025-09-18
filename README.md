@@ -1,5 +1,3 @@
-# estudos-tecno
-Aprendizados e testes práticos em lógica, APIs e banco de dados
 # Repositório de Estudos - Gabrieli Mensch  
 
 Bem-vindo(a)! 🚀  
